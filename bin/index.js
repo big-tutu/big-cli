@@ -53,5 +53,4 @@ program
 if (process.argv.length < 3) {
   program.usage("<command> [options]").help();
 }
-console.log(process.argv);
 program.parse(process.argv);
