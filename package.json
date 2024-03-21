@@ -1,6 +1,6 @@
 {
   "name": "big-cli-x",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A command tool",
   "main": "./bin/index.js",
   "bin": {
@@ -13,7 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/big-tutu/big-cli.git"
   },
-  "private": "true",
   "author": "big_tutu",
   "license": "ISC",
   "devDependencies": {},
