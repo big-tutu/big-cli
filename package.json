@@ -1,0 +1,25 @@
+{
+  "name": "big-cli",
+  "version": "1.0.0",
+  "description": "A command tool",
+  "main": "./bin/index.js",
+  "bin": {
+    "big-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "download": "^8.0.0",
+    "fs-extra": "^11.2.0",
+    "handlebars": "^4.7.8"
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "inquirer": "8.2.5",
+    "ora": "5.4.1",
+    "update-notifier": "5.1.0"
+  }
+}
