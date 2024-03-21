@@ -1,6 +1,4 @@
-## big-cli
-+ 下载项目
-+ 安装依赖
+## big-cli-x
 ```js
-  yarn
+  npm install big-cli-x -g
 ```
