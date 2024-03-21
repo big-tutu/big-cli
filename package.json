@@ -9,7 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/big-tutu/big-cli.git"
+  },
+  "author": "big_tutu",
   "license": "ISC",
   "devDependencies": {
     "download": "^8.0.0",
